@@ -1,0 +1,7 @@
+neo4j
+certifi
+python-dotenv
+langchain-core
+langchain-ollama
+streamlit>=1.40
+pyvis
